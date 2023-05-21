@@ -1,5 +1,5 @@
 # Fancy-Mod
-Toontown Online fancy mod meant for Nightlife created by King Fireball.
+Toontown Online fancy mod meant for Nightlife created by King Fireball. This Content Pack is currently not fully functional with Toontown Rewritten.
 
 # Information
 
